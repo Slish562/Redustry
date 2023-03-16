@@ -1,6 +1,6 @@
 package com.redustry.graphics;
 
-import com.redustry.lib.visual.Color;
+import com.redustry.lib.graphics.Color;
 
 public class Palitra {
 

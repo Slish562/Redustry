@@ -1,7 +1,4 @@
-package com.redustry.util;
-
-import com.badlogic.gdx.math.MathUtils;
-import com.redustry.lib.math.Mathf;
+package com.redustry.lib.util;
 
 public class Position {
     private float x;

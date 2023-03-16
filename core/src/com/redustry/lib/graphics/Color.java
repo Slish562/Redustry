@@ -1,4 +1,4 @@
-package com.redustry.lib.visual;
+package com.redustry.lib.graphics;
 
 public class Color {
     private int red;
